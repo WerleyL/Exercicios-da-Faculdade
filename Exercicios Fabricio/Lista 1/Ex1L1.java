@@ -1,8 +1,8 @@
 package scr;
 
-import javax.swing.JOptionPane;
+import javax.swing.*;
 
- public  class Ex1L1 {
+public class Ex1L1 {
     public static void main(String[] args) {
         String entrada;
         int num;
