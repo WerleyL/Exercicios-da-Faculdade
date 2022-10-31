@@ -15,13 +15,17 @@ public class prova {
             if (salarioMin <= 0 || salarioUsuario < 0) {
                 JOptionPane.showMessageDialog(null, "Valores incorretos, insira-os  novamente");
             } else if (salarioMin > salarioUsuario) {
-                JOptionPane.showMessageDialog(null, " Seu salario é menor que um salario minimo. Faltam  " + fA.format(salarioMin - salarioUsuario) + "R$ para que você ganhe um salario minimo ");parar=1;
+                JOptionPane.showMessageDialog(null, " Seu salario é menor que um salario minimo. Faltam  " + fA.format(salarioMin - salarioUsuario) + "R$ para que você ganhe um salario minimo ");
+                parar = 1;
             } else if (salarioMin < salarioUsuario) {
-                JOptionPane.showMessageDialog(null, "Seu salario é de:" + fA.format(salarioUsuario) + "R$. O que equivale á " + fA.format(salarioUsuario / salarioMin) + " vezes o salario minimo ");parar=1;
+                JOptionPane.showMessageDialog(null, "Seu salario é de:" + fA.format(salarioUsuario) + "R$. O que equivale á " + fA.format(salarioUsuario / salarioMin) + " vezes o salario minimo ");
+                parar = 1;
             } else if (salarioMin == salarioUsuario) {
-                JOptionPane.showMessageDialog(null, " Seu salario é equivalente ao salario minimo ");parar=1;
+                JOptionPane.showMessageDialog(null, " Seu salario é equivalente ao salario minimo ");
+                parar = 1;
             }
 
 
         }
-    }}
+    }
+}
