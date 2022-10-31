@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class Ex10 {
+public class Ex10L4 {
     public static void main(String[] args) {
         Integer quant = 0;
         Integer i;
