@@ -36,17 +36,23 @@ public class vetorPratica {
 
             } else if (funcao == 3) {
                 Integer buscar = 0;
+                Integer a = 1;
                 while (buscar != -1) {
                     buscar = Integer.parseInt(JOptionPane.showInputDialog("Insira qual numero deseja buscar"));
+                    i = 0;
+                    a = 1;
                     for (i = 0; i < vetor.length; i++) {
-                        i = 0;
+
+
                         if (buscar == vetor[i]) {
                             JOptionPane.showMessageDialog(null, "o vetor " + buscar + " esta no espaço: " + i);
+                            a++;
+                            ;
                             break;
-                        } else if (buscar != vetor[i]) {
-                            i = -5;
+
+
                         }
-                        if (i == -5) {
+                        if (a == 1) {
                             JOptionPane.showMessageDialog(null, "o numero: " + buscar + " não foi cadastrado");
                             break;
 
