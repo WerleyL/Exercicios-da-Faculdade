@@ -4,68 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3f3bb58-8fbf-4c85-9dfe-f682c6bb6882" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Exercicios-da-Faculdade.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios-da-Faculdade.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Exercicios/Exercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Exercicios/Exercicios.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Exercicios/src/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Exercicios/src/ArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Exercicios/src/Ciclista.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Exercicios/src/Ciclista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Exercicios/src/Maquina.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Exercicios/src/Maquina.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Exercicios/src/Media.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Exercicios/src/Media.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Exercicios/src/MediaPais.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Exercicios/src/MediaPais.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Exercicios/src/Quadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Exercicios/src/Quadrado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Exercicios/src/Usina.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Exercicios/src/Usina.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Exercicios/src/prova.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Exercicios/src/prova.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Exercicios/src/vetorPratica.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Exercicios/src/vetorPratica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 1/Ex10L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 1/Ex10L1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 1/Ex1L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 1/Ex1L1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 1/Ex2L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 1/Ex2L1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 1/Ex3L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 1/Ex3L1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 1/Ex4L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 1/Ex4L1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 1/Ex5L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 1/Ex5L1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 1/Ex6L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 1/Ex6L1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 1/Ex7L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 1/Ex7L1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 1/Ex8L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 1/Ex8L1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 1/Ex9L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 1/Ex9L1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 2/Ex1L2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 2/Ex1L2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 2/Ex2L2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 2/Ex2L2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 2/Ex3L2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 2/Ex3L2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 2/Ex4L2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 2/Ex4L2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 2/Ex5L2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 2/Ex5L2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 2/Ex6L2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 2/Ex6L2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 2/Ex7L2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 2/Ex7L2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 2/Ex8L2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 2/Ex8L2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 2/Ex9L2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 2/Ex9L2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 3/DeltaL3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 3/DeltaL3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 3/EX2L3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 3/EX2L3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 3/Ex10L3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 3/Ex10L3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 3/Ex12L3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 3/Ex12L3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 3/Ex4L3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 3/Ex4L3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 3/Ex6L3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 3/Ex6L3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 3/Ex8L3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 3/Ex8L3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 4/Ex10L4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 4/Ex10L4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 4/Ex1L4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 4/Ex1L4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 4/Ex2L4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 4/Ex2L4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 4/Ex3L4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 4/Ex3L4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 4/Ex4L4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 4/Ex4L4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 4/Ex5L4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 4/Ex5L4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 4/Ex6L4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 4/Ex6L4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 4/Ex7L4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 4/Ex7L4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 4/Ex8L4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 4/Ex8L4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Fabricio/Lista 4/Ex9L4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Fabricio/src/Lista 4/Ex9L4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Jardel/Calculadora.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Jardel/Ex06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Jardel/Ex12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Jardel/Ex13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Jardel/Ex14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Jardel/Ex15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Jardel/Ex7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Jardel/Ex8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Jardel/Ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios Jardel/src/Ex9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Jardel/Salario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Jardel/ex11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios Jardel/teste.java" beforeDir="false" />
-    </list>
+    <list default="true" id="d3f3bb58-8fbf-4c85-9dfe-f682c6bb6882" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,13 +21,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/werle/Documents/GitHub&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/werle/Documents/GitHub",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\werle\Documents\INTELIJJ\Exercicios-da-Faculdade\Exercicios Fabricio\src" />
